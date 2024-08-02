@@ -1,0 +1,42 @@
+﻿{
+  "categorias": [
+    {
+      "categoria": "Iluminacion",
+      "items": [
+        {
+          "elemento": "Lámpara Led de 5w",
+          "valor": 5
+        },
+        {
+          "elemento": "Lámpara Led de 10w",
+          "valor": 10
+        },
+        {
+          "elemento": "Lámpara Incandescente 40w",
+          "valor": 40
+        },
+        {
+          "elemento": "Lámpara Incandescente de 100w",
+          "valor": 100
+        },
+        {
+          "elemento": "Lámpara Incandescente de 200w",
+          "valor": 200
+        }
+      ]
+    },
+    {
+      "categoria": "Refrigeracion",
+      "items": [
+        {
+          "elemento": "Heladera",
+          "valor": 1000
+        },
+        {
+          "elemento": "Freezer",
+          "valor": 1500
+        }
+      ]
+    }
+  ]
+} 
